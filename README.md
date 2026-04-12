@@ -14,9 +14,8 @@ Hi! I'm **Godwin Kadima**, a passionate developer who loves creating and contrib
 ## Highlights of My GitHub Profile
 
 - 🌟 Passionate about Web Development and Graphic Design .
-- 🌱 Currently learning Javascript.
 - 🛠️ Tools and technologies I frequently work with:
-  - HTML, CSS.
+  - HTML, CSS, Python
 
 ## How to Connect
 
