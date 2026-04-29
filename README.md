@@ -1,62 +1,73 @@
-# 🚀 Hi there, I'm Godwin Kadima! 
+# 🚀 Godwin Kadima
+### 💻 Aspiring Web & Software Developer
 
-[cite_start]I'm an **IT student at Middlesex University Dubai** specializing in **Web and Software Development**[cite: 4]. [cite_start]I love blending creative **UI/UX design** with solid **backend logic** to build impactful digital experiences[cite: 5].
-
----
-
-### 🛠️ Technical Stack & Skills
-
-* [cite_start]**Languages:** Python, JavaScript, HTML5/CSS3, Arduino (C++) [cite: 34, 38, 39]
-* [cite_start]**Frameworks & Tools:** Vue.js, Figma, GitHub [cite: 37, 38, 39]
-* [cite_start]**Databases:** MySQL [cite: 35]
-* [cite_start]**Specialized Exposure:** Robotics, Machine Learning (Intro), VR/AR [cite: 39, 40]
+<p align="left">
+  <img src="https://img.shields.io/badge/BSc-Information%20Technology-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Dubai%2C%20UAE-red?style=for-the-badge" />
+</p>
 
 ---
 
-### 📂 Featured Projects
+### 👨‍💻 About Me
+I am an **IT student at Middlesex University Dubai** focusing on **Web and Software Development**. I am passionate about creating clean **UI/UX designs** and building functional **backend systems**. I enjoy working in collaborative environments and am constantly looking for opportunities to apply my academic foundations to real-world technical projects.
 
-#### [**Autonomous Firefighting Robot**](https://github.com/godwink12)
-* [cite_start]**Tech:** Arduino (C++) [cite: 19]
-* [cite_start]Collaborated on a team project to build a robot that detects heat sources and deploys extinguishing mechanisms[cite: 18, 20].
-* [cite_start]Programmed sensor-motor feedback loops for autonomous navigation[cite: 21].
-
-#### [**User Authentication System**](https://github.com/godwink12)
-* [cite_start]**Tech:** Python [cite: 22]
-* [cite_start]Created a terminal-based script featuring registration, login, and exit flows[cite: 24].
-* [cite_start]Implemented dictionary-based storage and validation for password security[cite: 25].
-
-#### [**Personal Portfolio Website**](https://github.com/godwink12)
-* [cite_start]**Tech:** HTML, CSS [cite: 26]
-* [cite_start]Developed a responsive site from scratch to showcase my technical stack and project history[cite: 28].
+I am currently in a phase of **active learning and improvement**, dedicated to refining my coding practices and evolving from a student into a professional-grade developer.
 
 ---
 
-### 💼 Experience & Education
+### 🛠️ Technical Arsenal & Growth
 
-* **Assistant Web Developer** | [cite_start]Ministère International des Âmes [cite: 10]
-    * [cite_start]Developed web components using Vue.js and led visual branding initiatives[cite: 12, 13].
-* **Content Moderator** | [cite_start]DisQ (Ottawa, Canada) [cite: 8, 9]
-* **BSc Information Technology** | [cite_start]Middlesex University Dubai (Present) [cite: 30]
-* **International BTEC Level 3 IT** | [cite_start]British International School Ethiopia [cite: 31]
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)|
+| **Backend & Logic** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)|
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)|
+
+**📚 Currently Improving In:**
+- **Advanced Development:** Moving from academic logic to scalable code.
+- **Robotics:** Exploring deeper hardware-software integration beyond my initial projects.
+- **Modern Frameworks:** Strengthening my grasp on Vue.js and responsive architecture.
+
+---
+
+### 📂 Academic & Personal Projects
+
+#### 🤖 **Autonomous Firefighting Robot**
+*An academic group project exploring hardware-software integration.*
+- Collaborated in a team to build a prototype robot using **Arduino** that detects heat sources.
+- Gained hands-on experience programming basic sensor-motor feedback loops in **C++**.
+
+#### 🔐 **User Authentication System**
+*Practicing backend logic and data validation.*
+- Developed a terminal-based registration and login flow using **Python**.
+- Implemented dictionary-based storage and explored basic security validation.
+
+#### 🌐 **Personal Portfolio Website**
+*Showcasing front-end development and UI/UX.*
+- Built a responsive site from scratch using **HTML5** and **CSS3** to document my project history.
+
+---
+
+### 💼 Experience
+
+- **Assistant Web Developer** | *Ministère International des Âmes*
+  - Developed web components using **Vue.js** and maintained site responsiveness.
+  - Led visual branding initiatives including logo design and stakeholder iterations.
+- **Content Moderator** | *DisQ (Ottawa)*
+- **Insurance Agent** | *Preventis Assurance*
 
 ---
 
 ### 🌍 Languages
-
-| Language | Proficiency |
-| :--- | :--- |
-| **English** | [cite_start]Fluent [cite: 42] |
-| **French** | [cite_start]Fluent [cite: 42] |
-| **Swahili** | [cite_start]Intermediate [cite: 42] |
-| **Lingala** | [cite_start]Intermediate [cite: 42] |
+- **English & French:** Fluent
+- **Swahili & Lingala:** Intermediate
 
 ---
 
 ### 📫 Connect with me
-
-* [cite_start]📍 **Location:** Dubai, UAE [cite: 2]
-* [cite_start]📧 **Email:** [godwinkadima1@gmail.com](mailto:godwinkadima1@gmail.com) [cite: 2]
-* [cite_start]🔗 **LinkedIn:** [Insert Link] [cite: 2]
-* [cite_start]💻 **Portfolio:** [Insert Link] [cite: 2]
+[Email Me](mailto:godwinkadima1@gmail.com) • [LinkedIn](https://linkedin.com/in/godwinkadima) • [GitHub](https://github.com/godwink12)
 
 ---
+<p align="center">
+  <i>"Always learning, always building."</i>
+</p>
